@@ -1,0 +1,17 @@
+<svg id="header_icons_light" data-name="header/icons/light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Fill_1" data-name="Fill 1" d="M14.4,1.962a1.962,1.962,0,1,1,1.962,1.962A1.962,1.962,0,0,1,14.4,1.962Zm-7.133,0A1.962,1.962,0,1,1,9.226,3.924,1.962,1.962,0,0,1,7.264,1.962ZM0,1.962A1.962,1.962,0,1,1,1.962,3.924,1.963,1.963,0,0,1,0,1.962Z" transform="translate(12.462 0.66) rotate(90)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="icon_header_nav" data-name="icon/header/nav">
+    <g id="Group_1" data-name="Group 1" transform="translate(11.462 12.34)">
+      <path id="Fill_1-2" data-name="Fill 1" d="M14.4,1.962a1.962,1.962,0,1,1,1.962,1.962A1.962,1.962,0,0,1,14.4,1.962Zm-7.133,0A1.962,1.962,0,1,1,9.226,3.924,1.962,1.962,0,0,1,7.264,1.962ZM0,1.962A1.962,1.962,0,1,1,1.962,3.924,1.963,1.963,0,0,1,0,1.962Z" transform="translate(12.462 0.66) rotate(90)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_156" data-name="Rectangle 156" width="44" height="44" fill="none"/>
+  </g>
+  <rect id="Rectangle_156-2" data-name="Rectangle 156" width="44" height="44" fill="none"/>
+  <g id="icon_header_nav-2" data-name="icon/header/nav">
+    <rect id="Rectangle_156-3" data-name="Rectangle 156" width="44" height="44" fill="none"/>
+  </g>
+</svg>
